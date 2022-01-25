@@ -22,7 +22,7 @@ github: https://github.com/jmsyoo/messageBoard
 - Bootstrap
 - Uuid
 
-link: <br>
+link: https://bzw-message-board-app.herokuapp.com/<br>
 github: https://github.com/jmsyoo/messageBoard_frontend
 
 ### Other
